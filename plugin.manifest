@@ -1,0 +1,6 @@
+pluginname=FilterForCourseInactivity
+pluginclassname=FilterForCourseInactivity
+origin=data-quest
+version=1.0
+studipMinVersion=4.0
+studipMaxVersion=4.2.99
